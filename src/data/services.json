@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Networking",
+    "img" : "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/3.png",
+    "desc": "Connect with sports enthusiasts and professionals",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Coaching Opportunities",
+    "img" : "https://plus.unsplash.com/premium_photo-1661680091938-d2f8ee24e806?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/4.png",
+    "desc": "SDC making it easy for those with real-life sports experience to monetize their skills and for learners to find affordable, quality coaching",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Activities",
+    "img" : "https://images.unsplash.com/photo-1502904550040-7534597429ae?q=80&w=3500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/4.png",
+    "desc": "From team sports to solo fitness challenges, SDC offers a wide range of activities to keep you engaged and motivated. Explore new sports, join events, and stay active",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Find Coaches",
+    "img" : "https://images.unsplash.com/photo-1529932398402-e0b30f66a559?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Our platform bridges the gap between coaches and athletes, making it easy for those with real-life sports experience to monetize their skills and for learners to find affordable, quality coaching",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Community",
+    "img" : "https://images.unsplash.com/photo-1587377838789-968194a7cc88?q=80&w=2358&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Share photos and videos of your sports journey, celebrate milestones, and get inspired by others. SDC is more than a platform; it’s a supportive network where every achievement is celebrated",
+    "link": "/dark/page-services-details"
+  },
+  {
+    "title": "Consultation",
+    "img" : "https://images.unsplash.com/photo-1491324213149-48ea4e31bf50?q=80&w=3437&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "icon": "/dark/assets/imgs/serv-icons/5.png",
+    "desc": "Whether you’re looking to improve your diet, enhance your training routine, or get specialized advice, our consultants are here to help you reach your fitness goals",
+    "link": "/dark/page-services-details"
+  }
+]
