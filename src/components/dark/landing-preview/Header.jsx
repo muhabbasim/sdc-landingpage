@@ -22,8 +22,8 @@ function Header() {
       <div className="container ontop">
         <div className="caption text-center">
           <h1>
-            Sports <span className="spc-font"> Enthusiasts and </span>
-            <span className="spc-font"> & Fitness Experts</span> <span className='sdc-color-text'>in one place</span>
+            Sports <span className="spc-font"> Enthusiasts &</span>
+             <span className='sdc-color-text'> Fitness Experts </span> <span className="spc-font">in one place</span>
           </h1>
           <h6 className="sub-title mt-20">
             <Translatable>
