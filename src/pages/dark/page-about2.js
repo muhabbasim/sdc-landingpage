@@ -22,7 +22,7 @@ export default function PageAbout2() {
       <Helmet>
         <title>SDC About us</title>
         <link rel="icon" href="/images/SDCLogo.svg" />
-        <link rel="shortcut icon" href="/dark/imgs/favicon.ico" />
+        <link rel="shortcut icon" href="/images/SDCLogo.svg" />
         <link
           rel="stylesheet"
           type="text/css"

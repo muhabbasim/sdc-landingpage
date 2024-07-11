@@ -14,7 +14,7 @@ export default function BlogList() {
       <Helmet>
         <title>SDC Blog</title>
         <link rel="icon" href="/images/SDCLogo.svg" />
-        <link rel="shortcut icon" href="/dark/imgs/favicon.ico" />
+        <link rel="shortcut icon" href="/images/SDCLogo.svg" />
         <link
           rel="stylesheet"
           type="text/css"

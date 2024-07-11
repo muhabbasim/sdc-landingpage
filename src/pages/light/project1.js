@@ -15,7 +15,7 @@ export default function LProject1() {
   return (
     <>
       <Helmet>
-        <title>infolio</title>
+        <title>SDC</title>
         <link rel="icon" href="/light/imgs/favicon.ico" />
         <link rel="shortcut icon" href="/light/imgs/favicon.ico" />
         <link

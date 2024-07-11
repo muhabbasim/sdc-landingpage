@@ -20,9 +20,9 @@ export default function HomeCreativeAgency() {
   return (
     <>
       <Helmet>
-        <title>infolio</title>
-        <link rel="icon" href="/dark/imgs/favicon.ico" />
-        <link rel="shortcut icon" href="/dark/imgs/favicon.ico" />
+        <title>SDC</title>
+        <link rel="icon" href="/images/SDCLogo.svg" />
+        <link rel="shortcut icon" href="/images/SDCLogo.svg" />
         <link
           rel="stylesheet"
           type="text/css"
